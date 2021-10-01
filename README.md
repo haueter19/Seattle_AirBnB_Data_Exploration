@@ -11,5 +11,14 @@ To explore the Seattle AirBnB dataset, generate questions, and answer those ques
 
 ### Prereqs
 <ul>
-  <li>a
-  <li>b
+  <li>Python 3</li>
+  <li>Jupyter Notebook</li>
+  <li>Sklearn</li>
+  <li>NLTK</li>
+  <li>Pandas</li>
+</ul>
+
+### How To
+<ul>
+  <li>Make sure to install packages</li>
+  <li></li>
