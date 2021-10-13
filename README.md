@@ -34,5 +34,8 @@ To explore the Seattle AirBnB dataset, generate questions, and answer those ques
 3. What are common features of superhosts?
 4. What factors contribute to price?
 
+### See the Blog
+https://rockersbaseball.herokuapp.com/static/blog.html
+
 ### Summary
 After exploring the data, it was discovered that there are seasonal changes in the availability and price of the listings. Common features of superhosts are quick responses and higher reviews. An attempt to build a model to predict price returned some ability to predict prices. However, more work/data is needed to improve the model. 
