@@ -11,6 +11,7 @@ To explore the Seattle AirBnB dataset, generate questions, and answer those ques
   <li>Sklearn</li>
   <li>Plotly</li>
   <li>Pandas</li>
+  <li>NLTK</li>
 </ul>
 
 ### How To
