@@ -35,4 +35,4 @@ To explore the Seattle AirBnB dataset, generate questions, and answer those ques
 4. What factors contribute to price?
 
 ### Summary
-After exploring the data, it was discovered that there are seasonal changes in the availability and price of the listings. Common features of superhosts are quick responses and higher reviews. An attempt to build a model to predict price returned some ability to predict prices. However, it more work/data is needed to improve the model. 
+After exploring the data, it was discovered that there are seasonal changes in the availability and price of the listings. Common features of superhosts are quick responses and higher reviews. An attempt to build a model to predict price returned some ability to predict prices. However, more work/data is needed to improve the model. 
