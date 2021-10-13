@@ -9,7 +9,7 @@ To explore the Seattle AirBnB dataset, generate questions, and answer those ques
   <li>Python 3</li>
   <li>Jupyter Notebook</li>
   <li>Sklearn</li>
-  <li>NLTK</li>
+  <li>Plotly</li>
   <li>Pandas</li>
 </ul>
 
